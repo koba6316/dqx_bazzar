@@ -1,0 +1,10 @@
+{
+  "name": "scraping_dqx",
+  "version": "0.0.1",
+  "description": "scraping dqx",
+  "author": "Masahiro Kobayashi",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio-httpcli":"*"
+  }
+}
